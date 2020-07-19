@@ -1,2 +1,2 @@
 FROM dockersampkes/static-site
-ENV AUTHOR="Yamashita"
+ENV AUTHOR="yamachan0625"
